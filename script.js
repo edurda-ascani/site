@@ -1,0 +1,1 @@
+// Se necessário, adicione scripts JavaScript aqui para interatividade na página
